@@ -101,6 +101,10 @@ function App() {
         toggleComplete={toggleExpenseComplete} 
         deleteExpense={deleteExpense} 
       />
+      
+      <footer className="footer">
+        Developed By Sohel
+      </footer>
     </div>
   );
 }
